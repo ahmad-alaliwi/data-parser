@@ -14,7 +14,10 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Main tool that runs the program */
+/** Main tool that runs the program
+ *
+ * @author Ahmad Alaliwi
+ */
 public class Main {
 
   public static void main(String args[]) {

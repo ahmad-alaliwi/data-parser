@@ -6,7 +6,10 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-/** Helper class for utility operations */
+/** Helper class for utility operations
+ *
+ * @author Ahmad Alaliwi
+ */
 public class OperationsHelper {
 
   /**

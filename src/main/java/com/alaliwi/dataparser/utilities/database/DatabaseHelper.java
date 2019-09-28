@@ -9,7 +9,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
 
-/** Helper class for database operations */
+/** Helper class for database operations
+ *
+ * @author Ahmad Alaliwi
+ */
 public class DatabaseHelper {
 
   /**
